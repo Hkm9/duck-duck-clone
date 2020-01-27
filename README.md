@@ -1,0 +1,1 @@
+Building an accessible & responsive clone of the DuckDuckGo home page from scratch. It is not going to be a perfect clone, but the rendered site will be visually as close as possible. This is an assignment for incremental development at HYF in week number three of this course. 
