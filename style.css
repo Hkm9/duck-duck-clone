@@ -203,14 +203,39 @@ li{
   padding-bottom: 10px;
 }
 
-.body .content h1{
+.body .content h1
+.ghost .content h1{
   margin-top: 0;
   font-size: 50px;
 }
-.body p{
+.body p,
+.ghost p{
   font-size: 25px;
 }
 .body button{
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 25vw;
+}
+
+.ghost .container{
+  text-align: center;
+  align-items: center;
+}
+
+.ghost .image{
+  background-color: #ffa64d;
+  padding-bottom: 0;
+  padding-top: 100px;
+}
+
+.ghost .content{
+  background-color: #4747d1;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+.ghost button{
   background-color: rgba(0, 0, 0, 0.7);
   width: 25vw;
 }
