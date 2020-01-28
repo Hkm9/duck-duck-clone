@@ -204,12 +204,14 @@ li{
 }
 
 .body .content h1
-.ghost .content h1{
+.ghost .content h1
+.bath .content h1{
   margin-top: 0;
   font-size: 50px;
 }
 .body p,
-.ghost p{
+.ghost p,
+.bath p{
   font-size: 25px;
 }
 .body button{
@@ -238,4 +240,52 @@ li{
 .ghost button{
   background-color: rgba(0, 0, 0, 0.7);
   width: 25vw;
+}
+
+.bath .container{
+  text-align: center;
+  align-items: center;
+}
+
+.bath .image{
+  background-color: #4747d1;
+  padding-bottom: 0;
+  padding-top: 100px;
+}
+
+.bath .list ul{
+  display: flex;
+  float: right;
+  list-style-type: none;
+}
+
+.bath a,
+.bath li{
+  text-decoration: none;
+  margin-right: 10px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.bath .content{
+  background-color: #80bfff;
+  color: rgba(0, 0, 0, 0.7);
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.bath button{
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 25vw;
+}
+
+.footer{
+  background-color: #80bfff;
+}
+
+.footer .container{
+  text-align: center;
+}
+
+.footer .image{
+  padding-top: 120px;
 }
