@@ -3,6 +3,10 @@
   
 # 2nd Branch
   Finished the first page of the web from the DuckDuckGo home-page.
+  
+# 3rd Branch
+  Finished the second page of the web from DuckDuckGo home-page.
+
 
 
 
