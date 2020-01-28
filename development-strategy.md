@@ -1,3 +1,32 @@
+# 1st Branch
+  Finished the icons and the header of the webpage with the logo and search bar. 
+  
+# 2nd Branch
+  Finished the first page of the web from the DuckDuckGo home-page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Development Strategy
 
 ## WireFrame
