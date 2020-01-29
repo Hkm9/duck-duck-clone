@@ -112,6 +112,8 @@ li{
   font-size: 10px;
 }
 .content .content-information{
+  position: absolute;
+  z-index: 1;
   color: white;
   font-family: "Times New Roman", Times, serif;
   font-weight: lighter;
@@ -119,6 +121,7 @@ li{
 
 .content .content-image{
   position: absolute;
+  z-index: 0;
   top: 35%;
   left: 15%;
 }
