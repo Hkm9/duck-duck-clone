@@ -61,6 +61,14 @@ li{
   align-items: center;
 }
 
+.content .container a,
+.head .content a,
+.body .content a,
+.ghost .content a{
+  text-decoration: none;
+  color: white;
+}
+
 .search-wrap{
   background-color: #2B2727;
   height: 40px;
